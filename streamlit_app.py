@@ -1,4 +1,4 @@
-
+import snowflake.connector
 import streamlit, pandas
 streamlit.title("My Parents new Healthy Diner at 207 oak street")
 
